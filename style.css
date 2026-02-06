@@ -144,12 +144,6 @@ h1 {
     transform: translateY(-3px); /* Slight lift effect */
 }
 
-.contact-text {
-    color: #888;
-    font-size: 0.9em;
-}
-
-/* Mobile Responsiveness */
 /* Mobile Responsiveness */
 @media (max-width: 600px) {
     /* 1. Reduce top space so the page isn't empty */
